@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "e:/DSA LABS/DSA-lAB-1-",
-      "program": "e:/DSA LABS/DSA-lAB-1-/build/Debug/outDebug",
+      "program": "e:/DSA LABS/DSA-lAB-1-/build/Debug/outDebug.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
